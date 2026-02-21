@@ -1,1 +1,7 @@
-
+pyTelegramBotAPI
+fake-useragent
+requests
+aiohttp
+asyncio
+phonenumbers
+colorama
